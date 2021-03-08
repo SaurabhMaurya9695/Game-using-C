@@ -1,2 +1,2 @@
 # Game-using-C
-snake,waterand gun
+snake,water and gun
